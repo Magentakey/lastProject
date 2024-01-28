@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.stickContainer{
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+}
+nav{
+    background-color: #739df0;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10;
+}
+nav div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav div p{
+    color: white;
+    font-size: larger;
+}
+nav img{
+    height: 30px;
+    margin: 0 10px;
+}
+nav ul{
+    display: flex;
+    /* border: 1px solid black; */
+    list-style: none;
+    justify-content: flex-end;
+    align-items: center;
+    /* background-color: #739df0; */
+    height: 50px;
+}
+nav ul li{
+    margin: 5px 10px;
+}
+nav ul li .linkNav{
+    text-decoration: none;
+    color: red;
+    padding: 10px;
+    transition: 0.5s;
+}
+nav ul li .linkNav:hover{
+    color: lime;
+    background-color: white;
+}

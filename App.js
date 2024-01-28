@@ -5,15 +5,17 @@ import Main from "./ComponentsTA/Main"
 import Footer from "./ComponentsTA/Footer"
 import Contact from "./ComponentsTA/Contact"
 import AboutMe from "./ComponentsTA/AboutMe"
+import MyComponents from "./MyComponents"
 
 function App() {
   return (
     <Router>
+      <MyComponents />
       <Navbar />
       <Routes>
-        <Route index element={<Main/>}/>
-        <Route path="AboutMe" element={<AboutMe/>}/>
-        <Route path="Contact" element={<Contact/>}/>
+        <Route index element={<Main />} />
+        <Route path="AboutMe" element={<AboutMe />} />
+        <Route path="Contact" element={<Contact />} />
       </Routes>
     </Router>
   )

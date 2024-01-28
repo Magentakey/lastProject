@@ -1,28 +1,31 @@
 import * as React from "react"
 import { useEffect } from "react"
+import { json } from "react-router-dom"
 
 const MyComponents = () => {
-    const [data, setData] = React.useState(null)
-    
-    // useEffect(() => {
-    //     fetch("https://dummyjson.com/products")
-    //         .then(response => response.json())
-    //         .then(console.log)
-    //         .then(json => setData(json))
-    // }, [])
+  const [data, setData] = React.useState(null)
 
-    // if(!data){
-    //     return <p>Loading...</p>
-    // }
+  useEffect(() => {
+    fetch("https://dummyjson.com/recipes")
+      .then(response => response.json())
+      .then(json => setData(json))
+  }, [])
 
-    return (
-        <div className="containerAPI">
-            <ul>
-                {/* {data(item => (
-                    <li key={item.id}>{item.title}</li>
-                ))} */}
-            </ul>
-        </div>
-    )
+  if (!data) {
+    return <p>Loading...</p>
+  }
+
+  return (
+    <>
+      {console.log(data.recipes)}
+    </>
+    // <div className="containerAPI">
+    //   <ul>
+    //     {data.recipes.map(item => (
+    //       <li key={item.id}>{item.name}</li>
+    //     ))}
+    //   </ul>
+    // </div>
+  )
 }
 export default MyComponents

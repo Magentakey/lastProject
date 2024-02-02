@@ -1,6 +1,7 @@
 import React from "react";
 import "./styleMain.css"
-import CardRecipes from "./CardRecipes";
+// import CardRecipes from "./RecipesP";
+import RecipesP from "./RecipesP";
 import Footer from "./Footer";
 
 const Main = () => {
@@ -12,7 +13,7 @@ const Main = () => {
         <p>we have a lot about food recipes here</p>
       </div>
 
-      <CardRecipes />
+      <RecipesP />
       <Footer />
     </>
   )

@@ -4,20 +4,24 @@
     box-sizing: border-box;
 }
 .stickContainer{
+    margin: 0;
+    padding: 0;
     position: sticky;
     top: 0;
     left: 0;
     width: 100%;
     z-index: 10;
+    /* border: 5px solid red; */
 }
 nav{
+    margin: 0;
     background-color: #739df0;
     display: flex;
     width: 100%;
     justify-content: space-between;
     align-items: center;
     position: absolute;
-    top: 0;
+    top: -5px;
     left: 0;
     z-index: 10;
 }
@@ -31,7 +35,7 @@ nav div p{
     font-size: larger;
 }
 nav img{
-    height: 30px;
+    height: 50px;
     margin: 0 10px;
 }
 nav ul{

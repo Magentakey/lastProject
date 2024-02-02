@@ -15,3 +15,12 @@
   color: inherit;
   margin: 5px 0;
 }
+.footer pre{
+  color: black;
+  margin: 5px 0;
+}
+.footer pre ul{
+  list-style: none;
+  color: black;
+  margin: 5px 0;
+}

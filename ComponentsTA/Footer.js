@@ -7,9 +7,17 @@ const Footer = () => {
             <h1>ReFood</h1>
             <p>Made By Ramdan</p>
             <pre>
-                : 0812-8213-9658
-                : ramdaniqop@gmail.com
-                : magentakey.github
+                <ul>
+                    <li>
+                        <span className="icon-phone"></span> : 0812-8213-9658
+                    </li>
+                    <li>
+                        <span className="icon-mail"></span> : ramdaniqop@gmail.com
+                    </li>
+                    <li>
+                        <span className="icon-user"></span> : magentakey.github
+                    </li>
+                </ul>
             </pre>
         </div>
     )

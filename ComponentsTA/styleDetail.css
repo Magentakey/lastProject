@@ -1,0 +1,9 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.styleDetail{
+  border: 1px solid transparent;
+  /* margin: 50px 0 0 0; */
+}

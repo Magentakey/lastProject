@@ -1,0 +1,1400 @@
+{
+  "recipes": [
+    {
+      "name": "Classic Margherita kml1",
+      "ingredients": [
+        "Pizza dough",
+        "Tomato sauce",
+        "Fresh mozzarella cheese",
+        "Fresh basil leaves",
+        "Olive oil",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Preheat the oven to 475°F (245°C).",
+        "Roll out the pizza dough and spread tomato sauce evenly.",
+        "Top with slices of fresh mozzarella and fresh basil leaves.",
+        "Drizzle with olive oil and season with salt and pepper.",
+        "Bake in the preheated oven for 12-15 minutes or until the crust is golden brown.",
+        "Slice and serve hot."
+      ],
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 15,
+      "difficulty": "Easy",
+      "cuisine": "Italian",
+      "caloriesPerServing": 300,
+      "tags": [
+        "Pizza",
+        "Italian"
+      ],
+      "image": "https://cdn.dummyjson.com/recipe-images/1.webp",
+      "rating": 4.6,
+      "mealType": [
+        "Dinner"
+      ],
+      "id": "1",
+      "userId": "08b2",
+      "userName": "ramdan"
+    },
+    {
+      "id": "2",
+      "name": "Vegetarian Stir-Fry",
+      "ingredients": [
+        "Tofu, cubed",
+        "Broccoli florets",
+        "Carrots, sliced",
+        "Bell peppers, sliced",
+        "Soy sauce",
+        "Ginger, minced",
+        "Garlic, minced",
+        "Sesame oil",
+        "Cooked rice for serving"
+      ],
+      "instructions": [
+        "In a wok, heat sesame oil over medium-high heat.",
+        "Add minced ginger and garlic, sauté until fragrant.",
+        "Add cubed tofu and stir-fry until golden brown.",
+        "Add broccoli, carrots, and bell peppers. Cook until vegetables are tender-crisp.",
+        "Pour soy sauce over the stir-fry and toss to combine.",
+        "Serve over cooked rice."
+      ],
+      "prepTimeMinutes": 15,
+      "cookTimeMinutes": 20,
+      "servings": 3,
+      "difficulty": "Medium",
+      "cuisine": "Asian",
+      "caloriesPerServing": 250,
+      "tags": [
+        "Vegetarian",
+        "Stir-fry",
+        "Asian"
+      ],
+      "userId": "08b2",
+      "userName": "ramdan",
+      "image": "https://cdn.dummyjson.com/recipe-images/2.webp",
+      "rating": 4.7,
+      "reviewCount": 36,
+      "mealType": [
+        "Lunch"
+      ]
+    },
+    {
+      "name": "kenotototo1",
+      "ingredients": [
+        "All-purpose flour",
+        "Butter, softened",
+        "Brown sugar",
+        "White sugar",
+        "Eggs",
+        "Vanilla extract",
+        "Baking soda",
+        "Salt",
+        "Chocolate chips"
+      ],
+      "instructions": [
+        "Preheat the oven to 350°F (175°C).",
+        "In a bowl, cream together softened butter, brown sugar, and white sugar.",
+        "Beat in eggs one at a time, then stir in vanilla extract.",
+        "Combine flour, baking soda, and salt. Gradually add to the wet ingredients.",
+        "Fold in chocolate chips.",
+        "Drop rounded tablespoons of dough onto ungreased baking sheets.",
+        "Bake for 10-12 minutes or until edges are golden brown.",
+        "Allow cookies to cool on the baking sheet for a few minutes before transferring to a wire rack."
+      ],
+      "prepTimeMinutes": 15,
+      "cookTimeMinutes": 10,
+      "difficulty": "Easy",
+      "cuisine": "American",
+      "caloriesPerServing": 150,
+      "tags": [
+        "Cookies",
+        "Dessert",
+        "Baking"
+      ],
+      "image": "https://cdn.dummyjson.com/recipe-images/3.webp",
+      "rating": 4.9,
+      "mealType": [
+        "Snack",
+        "Dessert"
+      ],
+      "id": "3",
+      "userId": "08b2",
+      "userName": "ramdan"
+    },
+    {
+      "id": "4",
+      "name": "Chicken Alfredo Pasta",
+      "ingredients": [
+        "Fettuccine pasta",
+        "Chicken breast, sliced",
+        "Heavy cream",
+        "Parmesan cheese, grated",
+        "Garlic, minced",
+        "Butter",
+        "Salt and pepper to taste",
+        "Fresh parsley for garnish"
+      ],
+      "instructions": [
+        "Cook fettuccine pasta according to package instructions.",
+        "In a pan, sauté sliced chicken in butter until fully cooked.",
+        "Add minced garlic and cook until fragrant.",
+        "Pour in heavy cream and grated Parmesan cheese. Stir until the cheese is melted.",
+        "Season with salt and pepper to taste.",
+        "Combine the Alfredo sauce with cooked pasta.",
+        "Garnish with fresh parsley before serving."
+      ],
+      "prepTimeMinutes": 15,
+      "cookTimeMinutes": 20,
+      "servings": 4,
+      "difficulty": "Medium",
+      "cuisine": "Italian",
+      "caloriesPerServing": 500,
+      "tags": [
+        "Pasta",
+        "Chicken"
+      ],
+      "userId": "08b2",
+      "userName": "ramdan",
+      "image": "https://cdn.dummyjson.com/recipe-images/4.webp",
+      "rating": 4.9,
+      "reviewCount": 38,
+      "mealType": [
+        "Lunch",
+        "Dinner"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Mango Salsa Chicken",
+      "ingredients": [
+        "Chicken thighs",
+        "Mango, diced",
+        "Red onion, finely chopped",
+        "Cilantro, chopped",
+        "Lime juice",
+        "Jalapeño, minced",
+        "Salt and pepper to taste",
+        "Cooked rice for serving"
+      ],
+      "instructions": [
+        "Season chicken thighs with salt and pepper.",
+        "Grill or bake chicken until fully cooked.",
+        "In a bowl, combine diced mango, chopped red onion, cilantro, minced jalapeño, and lime juice.",
+        "Dice the cooked chicken and mix it with the mango salsa.",
+        "Serve over cooked rice."
+      ],
+      "prepTimeMinutes": 15,
+      "cookTimeMinutes": 25,
+      "servings": 3,
+      "difficulty": "Easy",
+      "cuisine": "Mexican",
+      "caloriesPerServing": 380,
+      "tags": [
+        "Chicken",
+        "Salsa"
+      ],
+      "userId": "08b2",
+      "userName": "ramdan",
+      "image": "https://cdn.dummyjson.com/recipe-images/5.webp",
+      "rating": 4.9,
+      "reviewCount": 25,
+      "mealType": [
+        "Dinner"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Quinoa Salad with Avocado",
+      "ingredients": [
+        "Quinoa, cooked",
+        "Avocado, diced",
+        "Cherry tomatoes, halved",
+        "Cucumber, diced",
+        "Red bell pepper, diced",
+        "Feta cheese, crumbled",
+        "Lemon vinaigrette dressing",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "In a large bowl, combine cooked quinoa, diced avocado, halved cherry tomatoes, diced cucumber, diced red bell pepper, and crumbled feta cheese.",
+        "Drizzle with lemon vinaigrette dressing and toss to combine.",
+        "Season with salt and pepper to taste.",
+        "Chill in the refrigerator before serving."
+      ],
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 15,
+      "servings": 4,
+      "difficulty": "Easy",
+      "cuisine": "Mediterranean",
+      "caloriesPerServing": 280,
+      "tags": [
+        "Salad",
+        "Quinoa"
+      ],
+      "userId": "08b2",
+      "userName": "ramdan",
+      "image": "https://cdn.dummyjson.com/recipe-images/6.webp",
+      "rating": 4.4,
+      "reviewCount": 21,
+      "mealType": [
+        "Lunch",
+        "Side Dish"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Tomato Basil Bruschetta",
+      "ingredients": [
+        "Baguette, sliced",
+        "Tomatoes, diced",
+        "Fresh basil, chopped",
+        "Garlic cloves, minced",
+        "Balsamic glaze",
+        "Olive oil",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Preheat the oven to 375°F (190°C).",
+        "Place baguette slices on a baking sheet and toast in the oven until golden brown.",
+        "In a bowl, combine diced tomatoes, chopped fresh basil, minced garlic, and a drizzle of olive oil.",
+        "Season with salt and pepper to taste.",
+        "Top each toasted baguette slice with the tomato-basil mixture.",
+        "Drizzle with balsamic glaze before serving."
+      ],
+      "prepTimeMinutes": 15,
+      "cookTimeMinutes": 10,
+      "servings": 6,
+      "difficulty": "Easy",
+      "cuisine": "Italian",
+      "caloriesPerServing": 120,
+      "tags": [
+        "Bruschetta",
+        "Italian"
+      ],
+      "userId": "08b2",
+      "userName": "ramdan",
+      "image": "https://cdn.dummyjson.com/recipe-images/7.webp",
+      "rating": 4.7,
+      "reviewCount": 9,
+      "mealType": [
+        "Appetizer"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Beef and Broccoli Stir-Fry",
+      "ingredients": [
+        "Beef sirloin, thinly sliced",
+        "Broccoli florets",
+        "Soy sauce",
+        "Oyster sauce",
+        "Sesame oil",
+        "Garlic, minced",
+        "Ginger, minced",
+        "Cornstarch",
+        "Cooked white rice for serving"
+      ],
+      "instructions": [
+        "In a bowl, mix soy sauce, oyster sauce, sesame oil, and cornstarch to create the sauce.",
+        "In a wok, stir-fry thinly sliced beef until browned. Remove from the wok.",
+        "Stir-fry broccoli florets, minced garlic, and minced ginger in the same wok.",
+        "Add the cooked beef back to the wok and pour the sauce over the mixture.",
+        "Stir until everything is coated and heated through.",
+        "Serve over cooked white rice."
+      ],
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 15,
+      "servings": 4,
+      "difficulty": "Medium",
+      "cuisine": "Asian",
+      "caloriesPerServing": 380,
+      "tags": [
+        "Beef",
+        "Stir-fry",
+        "Asian"
+      ],
+      "userId": "08b2",
+      "userName": "ramdan",
+      "image": "https://cdn.dummyjson.com/recipe-images/8.webp",
+      "rating": 4.7,
+      "reviewCount": 18,
+      "mealType": [
+        "Dinner"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Caprese Salad",
+      "ingredients": [
+        "Tomatoes, sliced",
+        "Fresh mozzarella cheese, sliced",
+        "Fresh basil leaves",
+        "Balsamic glaze",
+        "Extra virgin olive oil",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Arrange alternating slices of tomatoes and fresh mozzarella on a serving platter.",
+        "Tuck fresh basil leaves between the slices.",
+        "Drizzle with balsamic glaze and extra virgin olive oil.",
+        "Season with salt and pepper to taste.",
+        "Serve immediately as a refreshing salad."
+      ],
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 0,
+      "servings": 2,
+      "difficulty": "Easy",
+      "cuisine": "Italian",
+      "caloriesPerServing": 200,
+      "tags": [
+        "Salad",
+        "Caprese"
+      ],
+      "userId": "08b2",
+      "userName": "ramdan",
+      "image": "https://cdn.dummyjson.com/recipe-images/9.webp",
+      "rating": 4.6,
+      "reviewCount": 26,
+      "mealType": [
+        "Lunch"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Shrimp Scampi Pasta",
+      "ingredients": [
+        "Linguine pasta",
+        "Shrimp, peeled and deveined",
+        "Garlic, minced",
+        "White wine",
+        "Lemon juice",
+        "Red pepper flakes",
+        "Fresh parsley, chopped",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Cook linguine pasta according to package instructions.",
+        "In a skillet, sauté minced garlic in olive oil until fragrant.",
+        "Add shrimp and cook until pink and opaque.",
+        "Pour in white wine and lemon juice. Simmer until the sauce slightly thickens.",
+        "Season with red pepper flakes, salt, and pepper.",
+        "Toss cooked linguine in the shrimp scampi sauce.",
+        "Garnish with chopped fresh parsley before serving."
+      ],
+      "prepTimeMinutes": 15,
+      "cookTimeMinutes": 20,
+      "servings": 3,
+      "difficulty": "Medium",
+      "cuisine": "Italian",
+      "caloriesPerServing": 400,
+      "tags": [
+        "Pasta",
+        "Shrimp"
+      ],
+      "userId": "08b2",
+      "userName": "ramdan",
+      "image": "https://cdn.dummyjson.com/recipe-images/10.webp",
+      "rating": 4.3,
+      "reviewCount": 15,
+      "mealType": [
+        "Dinner"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Chicken Biryani",
+      "ingredients": [
+        "Basmati rice",
+        "Chicken, cut into pieces",
+        "Onions, thinly sliced",
+        "Tomatoes, chopped",
+        "Yogurt",
+        "Ginger-garlic paste",
+        "Biryani masala",
+        "Green chilies, sliced",
+        "Fresh coriander leaves",
+        "Mint leaves",
+        "Ghee",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Marinate chicken with yogurt, ginger-garlic paste, biryani masala, and salt.",
+        "In a pot, sauté sliced onions until golden brown. Remove half for later use.",
+        "Layer marinated chicken, chopped tomatoes, half of the fried onions, and rice in the pot.",
+        "Top with ghee, green chilies, fresh coriander leaves, mint leaves, and the remaining fried onions.",
+        "Cover and cook on low heat until the rice is fully cooked and aromatic.",
+        "Serve hot, garnished with additional coriander and mint leaves."
+      ],
+      "prepTimeMinutes": 30,
+      "cookTimeMinutes": 45,
+      "servings": 6,
+      "difficulty": "Medium",
+      "cuisine": "Pakistani",
+      "caloriesPerServing": 550,
+      "tags": [
+        "Biryani",
+        "Chicken",
+        "Main course",
+        "Indian",
+        "Pakistani",
+        "Asian"
+      ],
+      "userId": "08b2",
+      "userName": "ramdan",
+      "image": "https://cdn.dummyjson.com/recipe-images/11.webp",
+      "rating": 5,
+      "reviewCount": 34,
+      "mealType": [
+        "Lunch",
+        "Dinner"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Chicken Karahi",
+      "ingredients": [
+        "Chicken, cut into pieces",
+        "Tomatoes, chopped",
+        "Green chilies, sliced",
+        "Ginger, julienned",
+        "Garlic, minced",
+        "Coriander powder",
+        "Cumin powder",
+        "Red chili powder",
+        "Garam masala",
+        "Cooking oil",
+        "Fresh coriander leaves",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "In a wok (karahi), heat cooking oil and sauté minced garlic until golden brown.",
+        "Add chicken pieces and cook until browned on all sides.",
+        "Add chopped tomatoes, green chilies, ginger, and spices. Cook until tomatoes are soft.",
+        "Cover and simmer until the chicken is tender and the oil separates from the masala.",
+        "Garnish with fresh coriander leaves and serve hot with naan or rice."
+      ],
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 30,
+      "servings": 4,
+      "difficulty": "Easy",
+      "cuisine": "Pakistani",
+      "caloriesPerServing": 420,
+      "tags": [
+        "Chicken",
+        "Karahi",
+        "Main course",
+        "Indian",
+        "Pakistani",
+        "Asian"
+      ],
+      "userId": "08b2",
+      "userName": "ramdan",
+      "image": "https://cdn.dummyjson.com/recipe-images/12.webp",
+      "rating": 4.8,
+      "reviewCount": 6,
+      "mealType": [
+        "Lunch",
+        "Dinner"
+      ]
+    },
+    {
+      "name": "Aloo Keema",
+      "ingredients": [
+        "Ground beef",
+        "Potatoes, peeled and diced",
+        "Onions, finely chopped",
+        "Tomatoes, chopped",
+        "Ginger-garlic paste",
+        "Cumin powder",
+        "Coriander powder",
+        "Turmeric powder",
+        "Red chili powder",
+        "Cooking oil",
+        "Fresh coriander leaves",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "In a pan, heat cooking oil and sauté chopped onions until golden brown.",
+        "Add ginger-garlic paste and sauté until fragrant.",
+        "Add ground beef and cook until browned. Drain excess oil if needed.",
+        "Add diced potatoes, chopped tomatoes, and spices. Mix well.",
+        "Cover and simmer until the potatoes are tender and the masala is well-cooked.",
+        "Garnish with fresh coriander leaves and serve hot with naan or rice."
+      ],
+      "prepTimeMinutes": 25,
+      "cookTimeMinutes": 35,
+      "difficulty": "Medium",
+      "cuisine": "Pakistani",
+      "caloriesPerServing": 380,
+      "tags": [
+        "Keema",
+        "Potatoes",
+        "Main course",
+        "Pakistani",
+        "Asian"
+      ],
+      "image": "https://cdn.dummyjson.com/recipe-images/13.webp",
+      "rating": 4.6,
+      "mealType": [
+        "Lunch",
+        "Dinner"
+      ],
+      "id": "13",
+      "userId": "08b2",
+      "userName": "ramdan"
+    },
+    {
+      "id": "14",
+      "name": "Chapli Kebabs",
+      "ingredients": [
+        "Ground beef",
+        "Onions, finely chopped",
+        "Tomatoes, finely chopped",
+        "Green chilies, chopped",
+        "Coriander leaves, chopped",
+        "Pomegranate seeds",
+        "Ginger-garlic paste",
+        "Cumin powder",
+        "Coriander powder",
+        "Red chili powder",
+        "Egg",
+        "Cooking oil",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "In a large bowl, mix ground beef, chopped onions, tomatoes, green chilies, coriander leaves, and pomegranate seeds.",
+        "Add ginger-garlic paste, cumin powder, coriander powder, red chili powder, and salt. Mix well.",
+        "Add an egg to bind the mixture and form into round flat kebabs.",
+        "Heat cooking oil in a pan and shallow fry the kebabs until browned on both sides.",
+        "Serve hot with naan or mint chutney."
+      ],
+      "prepTimeMinutes": 30,
+      "cookTimeMinutes": 20,
+      "servings": 4,
+      "difficulty": "Medium",
+      "cuisine": "Pakistani",
+      "caloriesPerServing": 320,
+      "tags": [
+        "Kebabs",
+        "Beef",
+        "Indian",
+        "Pakistani",
+        "Asian"
+      ],
+      "userId": "08b2",
+      "userName": "ramdan",
+      "image": "https://cdn.dummyjson.com/recipe-images/14.webp",
+      "rating": 4.7,
+      "reviewCount": 22,
+      "mealType": [
+        "Lunch",
+        "Dinner",
+        "Snacks"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Saag (Spinach) with Makki di Roti",
+      "ingredients": [
+        "Mustard greens, washed and chopped",
+        "Spinach, washed and chopped",
+        "Cornmeal (makki ka atta)",
+        "Onions, finely chopped",
+        "Green chilies, chopped",
+        "Ginger, grated",
+        "Ghee",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Boil mustard greens and spinach until tender. Drain and blend into a coarse paste.",
+        "In a pan, sauté chopped onions, green chilies, and grated ginger in ghee until golden brown.",
+        "Add the greens paste and cook until it thickens.",
+        "Meanwhile, knead cornmeal with water to make a dough. Roll into rotis (flatbreads).",
+        "Cook the rotis on a griddle until golden brown.",
+        "Serve hot saag with makki di roti and a dollop of ghee."
+      ],
+      "prepTimeMinutes": 40,
+      "cookTimeMinutes": 30,
+      "servings": 3,
+      "difficulty": "Medium",
+      "cuisine": "Pakistani",
+      "caloriesPerServing": 280,
+      "tags": [
+        "Saag",
+        "Roti",
+        "Main course",
+        "Indian",
+        "Pakistani",
+        "Asian"
+      ],
+      "userId": "08b2",
+      "userName": "ramdan",
+      "image": "https://cdn.dummyjson.com/recipe-images/15.webp",
+      "rating": 4.3,
+      "reviewCount": 36,
+      "mealType": [
+        "Breakfast",
+        "Lunch",
+        "Dinner"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Japanese Ramen Soup",
+      "ingredients": [
+        "Ramen noodles",
+        "Chicken broth",
+        "Soy sauce",
+        "Mirin",
+        "Sesame oil",
+        "Shiitake mushrooms, sliced",
+        "Bok choy, chopped",
+        "Green onions, sliced",
+        "Soft-boiled eggs",
+        "Grilled chicken slices",
+        "Norwegian seaweed (nori)"
+      ],
+      "instructions": [
+        "Cook ramen noodles according to package instructions and set aside.",
+        "In a pot, combine chicken broth, soy sauce, mirin, and sesame oil. Bring to a simmer.",
+        "Add sliced shiitake mushrooms and chopped bok choy. Cook until vegetables are tender.",
+        "Divide the cooked noodles into serving bowls and ladle the hot broth over them.",
+        "Top with green onions, soft-boiled eggs, grilled chicken slices, and nori.",
+        "Serve hot and enjoy the authentic Japanese ramen!"
+      ],
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 25,
+      "servings": 2,
+      "difficulty": "Medium",
+      "cuisine": "Japanese",
+      "caloriesPerServing": 480,
+      "tags": [
+        "Ramen",
+        "Japanese",
+        "Soup",
+        "Asian"
+      ],
+      "userId": "08b2",
+      "userName": "ramdan",
+      "image": "https://cdn.dummyjson.com/recipe-images/16.webp",
+      "rating": 4.9,
+      "reviewCount": 46,
+      "mealType": [
+        "Dinner"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Moroccan Chickpea Tagine",
+      "ingredients": [
+        "Chickpeas, cooked",
+        "Tomatoes, chopped",
+        "Carrots, diced",
+        "Onions, finely chopped",
+        "Garlic, minced",
+        "Cumin",
+        "Coriander",
+        "Cinnamon",
+        "Paprika",
+        "Vegetable broth",
+        "Olives",
+        "Fresh cilantro, chopped"
+      ],
+      "instructions": [
+        "In a tagine or large pot, sauté chopped onions and minced garlic until softened.",
+        "Add diced carrots, chopped tomatoes, and cooked chickpeas.",
+        "Season with cumin, coriander, cinnamon, and paprika. Stir to coat.",
+        "Pour in vegetable broth and bring to a simmer. Cook until carrots are tender.",
+        "Stir in olives and garnish with fresh cilantro before serving.",
+        "Serve this flavorful Moroccan dish with couscous or crusty bread."
+      ],
+      "prepTimeMinutes": 15,
+      "cookTimeMinutes": 30,
+      "servings": 4,
+      "difficulty": "Easy",
+      "cuisine": "Moroccan",
+      "caloriesPerServing": 320,
+      "tags": [
+        "Tagine",
+        "Chickpea",
+        "Moroccan"
+      ],
+      "userId": "08b2",
+      "userName": "ramdan",
+      "image": "https://cdn.dummyjson.com/recipe-images/17.webp",
+      "rating": 4.5,
+      "reviewCount": 34,
+      "mealType": [
+        "Dinner"
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Korean Bibimbap",
+      "ingredients": [
+        "Cooked white rice",
+        "Beef bulgogi (marinated and grilled beef slices)",
+        "Carrots, julienned and sautéed",
+        "Spinach, blanched and seasoned",
+        "Zucchini, sliced and grilled",
+        "Bean sprouts, blanched",
+        "Fried egg",
+        "Gochujang (Korean red pepper paste)",
+        "Sesame oil",
+        "Toasted sesame seeds"
+      ],
+      "instructions": [
+        "Arrange cooked white rice in a bowl.",
+        "Top with beef bulgogi, sautéed carrots, seasoned spinach, grilled zucchini, and blanched bean sprouts.",
+        "Place a fried egg on top and drizzle with gochujang and sesame oil.",
+        "Sprinkle with toasted sesame seeds before serving.",
+        "Mix everything together before enjoying this delicious Korean bibimbap!",
+        "Feel free to customize with additional vegetables or protein."
+      ],
+      "prepTimeMinutes": 30,
+      "cookTimeMinutes": 20,
+      "servings": 2,
+      "difficulty": "Medium",
+      "cuisine": "Korean",
+      "caloriesPerServing": 550,
+      "tags": [
+        "Bibimbap",
+        "Korean",
+        "Rice"
+      ],
+      "userId": "08b2",
+      "userName": "ramdan",
+      "image": "https://cdn.dummyjson.com/recipe-images/18.webp",
+      "rating": 4.9,
+      "reviewCount": 10,
+      "mealType": [
+        "Dinner"
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Greek Moussaka",
+      "ingredients": [
+        "Eggplants, sliced",
+        "Ground lamb or beef",
+        "Onions, finely chopped",
+        "Garlic, minced",
+        "Tomatoes, crushed",
+        "Red wine",
+        "Cinnamon",
+        "Allspice",
+        "Nutmeg",
+        "Olive oil",
+        "Milk",
+        "Flour",
+        "Parmesan cheese",
+        "Egg yolks"
+      ],
+      "instructions": [
+        "Preheat oven to 375°F (190°C).",
+        "Sauté sliced eggplants in olive oil until browned. Set aside.",
+        "In the same pan, cook chopped onions and minced garlic until softened.",
+        "Add ground lamb or beef and brown. Stir in crushed tomatoes, red wine, and spices.",
+        "In a separate saucepan, make béchamel sauce: melt butter, whisk in flour, add milk, and cook until thickened.",
+        "Remove from heat and stir in Parmesan cheese and egg yolks.",
+        "In a baking dish, layer eggplants and meat mixture. Top with béchamel sauce.",
+        "Bake for 40-45 minutes until golden brown. Let it cool before slicing.",
+        "Serve slices of moussaka warm and enjoy this Greek classic!"
+      ],
+      "prepTimeMinutes": 45,
+      "cookTimeMinutes": 45,
+      "servings": 6,
+      "difficulty": "Medium",
+      "cuisine": "Greek",
+      "caloriesPerServing": 420,
+      "tags": [
+        "Moussaka",
+        "Greek"
+      ],
+      "userId": "08b2",
+      "userName": "ramdan",
+      "image": "https://cdn.dummyjson.com/recipe-images/19.webp",
+      "rating": 4.3,
+      "reviewCount": 5,
+      "mealType": [
+        "Dinner"
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Butter Chicken (Murgh Makhani)",
+      "ingredients": [
+        "Chicken thighs, boneless and skinless",
+        "Yogurt",
+        "Ginger-garlic paste",
+        "Garam masala",
+        "Kashmiri red chili powder",
+        "Tomato puree",
+        "Butter",
+        "Heavy cream",
+        "Kasuri methi (dried fenugreek leaves)",
+        "Sugar",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Marinate chicken thighs in a mixture of yogurt, ginger-garlic paste, garam masala, and Kashmiri red chili powder.",
+        "In a pan, melt butter and sauté the marinated chicken until browned.",
+        "Add tomato puree and cook until the oil separates. Stir in heavy cream.",
+        "Sprinkle kasuri methi, sugar, and salt. Simmer until the chicken is fully cooked.",
+        "Serve this creamy butter chicken over rice or with naan for an authentic Pakistani/Indian experience."
+      ],
+      "prepTimeMinutes": 30,
+      "cookTimeMinutes": 25,
+      "servings": 4,
+      "difficulty": "Medium",
+      "cuisine": "Pakistani",
+      "caloriesPerServing": 480,
+      "tags": [
+        "Butter chicken",
+        "Curry",
+        "Indian",
+        "Pakistani",
+        "Asian"
+      ],
+      "userId": "08b2",
+      "userName": "ramdan",
+      "image": "https://cdn.dummyjson.com/recipe-images/20.webp",
+      "rating": 4.5,
+      "reviewCount": 18,
+      "mealType": [
+        "Dinner"
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Thai Green Curry",
+      "ingredients": [
+        "Chicken thighs, boneless and skinless",
+        "Green curry paste",
+        "Coconut milk",
+        "Fish sauce",
+        "Sugar",
+        "Eggplant, sliced",
+        "Bell peppers, sliced",
+        "Basil leaves",
+        "Jasmine rice for serving"
+      ],
+      "instructions": [
+        "In a pot, simmer green curry paste in coconut milk.",
+        "Add chicken, fish sauce, and sugar. Cook until chicken is tender.",
+        "Stir in sliced eggplant and bell peppers. Simmer until vegetables are cooked.",
+        "Garnish with fresh basil leaves.",
+        "Serve hot over jasmine rice and enjoy this Thai classic!"
+      ],
+      "prepTimeMinutes": 20,
+      "cookTimeMinutes": 30,
+      "servings": 4,
+      "difficulty": "Medium",
+      "cuisine": "Thai",
+      "caloriesPerServing": 480,
+      "tags": [
+        "Curry",
+        "Thai"
+      ],
+      "userId": "08b2",
+      "userName": "ramdan",
+      "image": "https://cdn.dummyjson.com/recipe-images/21.webp",
+      "rating": 4.2,
+      "reviewCount": 30,
+      "mealType": [
+        "Dinner"
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Mango Lassi",
+      "ingredients": [
+        "Ripe mango, peeled and diced",
+        "Yogurt",
+        "Milk",
+        "Honey",
+        "Cardamom powder",
+        "Ice cubes"
+      ],
+      "instructions": [
+        "In a blender, combine diced mango, yogurt, milk, honey, and cardamom powder.",
+        "Blend until smooth and creamy.",
+        "Add ice cubes and blend again until the lassi is chilled.",
+        "Pour into glasses and garnish with a sprinkle of cardamom.",
+        "Enjoy this refreshing Mango Lassi!"
+      ],
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 0,
+      "servings": 2,
+      "difficulty": "Easy",
+      "cuisine": "Indian",
+      "caloriesPerServing": 180,
+      "tags": [
+        "Lassi",
+        "Mango",
+        "Indian",
+        "Pakistani",
+        "Asian"
+      ],
+      "userId": "08b2",
+      "userName": "ramdan",
+      "image": "https://cdn.dummyjson.com/recipe-images/22.webp",
+      "rating": 4.7,
+      "reviewCount": 6,
+      "mealType": [
+        "Beverage"
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Italian Tiramisu",
+      "ingredients": [
+        "Espresso, brewed and cooled",
+        "Ladyfinger cookies",
+        "Mascarpone cheese",
+        "Heavy cream",
+        "Sugar",
+        "Cocoa powder"
+      ],
+      "instructions": [
+        "In a bowl, whip heavy cream until stiff peaks form.",
+        "In another bowl, mix mascarpone cheese and sugar until smooth.",
+        "Gently fold the whipped cream into the mascarpone mixture.",
+        "Dip ladyfinger cookies into brewed espresso and layer them in a serving dish.",
+        "Spread a layer of the mascarpone mixture over the cookies.",
+        "Repeat layers and finish with a dusting of cocoa powder.",
+        "Chill in the refrigerator for a few hours before serving.",
+        "Indulge in the decadence of this classic Italian Tiramisu!"
+      ],
+      "prepTimeMinutes": 30,
+      "cookTimeMinutes": 0,
+      "servings": 6,
+      "difficulty": "Medium",
+      "cuisine": "Italian",
+      "caloriesPerServing": 350,
+      "tags": [
+        "Tiramisu",
+        "Italian"
+      ],
+      "userId": "08b2",
+      "userName": "ramdan",
+      "image": "https://cdn.dummyjson.com/recipe-images/23.webp",
+      "rating": 4.6,
+      "reviewCount": 6,
+      "mealType": [
+        "Dessert"
+      ]
+    },
+    {
+      "id": "24",
+      "name": "Turkish Kebabs",
+      "ingredients": [
+        "Ground lamb or beef",
+        "Onions, grated",
+        "Garlic, minced",
+        "Parsley, finely chopped",
+        "Cumin",
+        "Coriander",
+        "Red pepper flakes",
+        "Salt and pepper to taste",
+        "Flatbread for serving",
+        "Tahini sauce"
+      ],
+      "instructions": [
+        "In a bowl, mix ground meat, grated onions, minced garlic, chopped parsley, and spices.",
+        "Form the mixture into kebab shapes and grill until fully cooked.",
+        "Serve the kebabs on flatbread with a drizzle of tahini sauce.",
+        "Enjoy these flavorful Turkish Kebabs with your favorite sides."
+      ],
+      "prepTimeMinutes": 25,
+      "cookTimeMinutes": 15,
+      "servings": 4,
+      "difficulty": "Easy",
+      "cuisine": "Turkish",
+      "caloriesPerServing": 280,
+      "tags": [
+        "Kebabs",
+        "Turkish",
+        "Grilling"
+      ],
+      "userId": "08b2",
+      "userName": "ramdan",
+      "image": "https://cdn.dummyjson.com/recipe-images/24.webp",
+      "rating": 4.6,
+      "reviewCount": 19,
+      "mealType": [
+        "Dinner"
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Blueberry Banana Smoothie",
+      "ingredients": [
+        "Blueberries, fresh or frozen",
+        "Banana, peeled and sliced",
+        "Greek yogurt",
+        "Almond milk",
+        "Honey",
+        "Chia seeds (optional)"
+      ],
+      "instructions": [
+        "In a blender, combine blueberries, banana, Greek yogurt, almond milk, and honey.",
+        "Blend until smooth and creamy.",
+        "Add chia seeds for extra nutrition and blend briefly.",
+        "Pour into a glass and enjoy this nutritious Blueberry Banana Smoothie!"
+      ],
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 0,
+      "servings": 1,
+      "difficulty": "Easy",
+      "cuisine": "Smoothie",
+      "caloriesPerServing": 220,
+      "tags": [
+        "Smoothie",
+        "Blueberry",
+        "Banana"
+      ],
+      "userId": "08b2",
+      "userName": "ramdan",
+      "image": "https://cdn.dummyjson.com/recipe-images/25.webp",
+      "rating": 4.8,
+      "reviewCount": 6,
+      "mealType": [
+        "Breakfast",
+        "Beverage"
+      ]
+    },
+    {
+      "id": "26",
+      "name": "Mexican Street Corn (Elote)",
+      "ingredients": [
+        "Corn on the cob",
+        "Mayonnaise",
+        "Cotija cheese, crumbled",
+        "Chili powder",
+        "Lime wedges"
+      ],
+      "instructions": [
+        "Grill or roast corn on the cob until kernels are charred.",
+        "Brush each cob with mayonnaise, then sprinkle with crumbled Cotija cheese and chili powder.",
+        "Serve with lime wedges for squeezing over the top.",
+        "Enjoy this delicious and flavorful Mexican Street Corn!"
+      ],
+      "prepTimeMinutes": 15,
+      "cookTimeMinutes": 15,
+      "servings": 4,
+      "difficulty": "Easy",
+      "cuisine": "Mexican",
+      "caloriesPerServing": 180,
+      "tags": [
+        "Elote",
+        "Mexican",
+        "Street food"
+      ],
+      "userId": "08b2",
+      "userName": "ramdan",
+      "image": "https://cdn.dummyjson.com/recipe-images/26.webp",
+      "rating": 4.6,
+      "reviewCount": 22,
+      "mealType": [
+        "Snack",
+        "Side Dish"
+      ]
+    },
+    {
+      "id": "27",
+      "name": "Russian Borscht",
+      "ingredients": [
+        "Beets, peeled and shredded",
+        "Cabbage, shredded",
+        "Potatoes, diced",
+        "Onions, finely chopped",
+        "Carrots, grated",
+        "Tomato paste",
+        "Beef or vegetable broth",
+        "Garlic, minced",
+        "Bay leaves",
+        "Sour cream for serving"
+      ],
+      "instructions": [
+        "In a pot, sauté chopped onions and garlic until softened.",
+        "Add shredded beets, cabbage, diced potatoes, grated carrots, and tomato paste.",
+        "Pour in broth and add bay leaves. Simmer until vegetables are tender.",
+        "Serve hot with a dollop of sour cream on top.",
+        "Enjoy the hearty and comforting flavors of Russian Borscht!"
+      ],
+      "prepTimeMinutes": 30,
+      "cookTimeMinutes": 40,
+      "servings": 6,
+      "difficulty": "Medium",
+      "cuisine": "Russian",
+      "caloriesPerServing": 220,
+      "tags": [
+        "Borscht",
+        "Russian",
+        "Soup"
+      ],
+      "userId": "08b2",
+      "userName": "ramdan",
+      "image": "https://cdn.dummyjson.com/recipe-images/27.webp",
+      "rating": 4.3,
+      "reviewCount": 49,
+      "mealType": [
+        "Dinner"
+      ]
+    },
+    {
+      "id": "28",
+      "name": "South Indian Masala Dosa",
+      "ingredients": [
+        "Dosa batter (fermented rice and urad dal batter)",
+        "Potatoes, boiled and mashed",
+        "Onions, finely chopped",
+        "Mustard seeds",
+        "Cumin seeds",
+        "Curry leaves",
+        "Turmeric powder",
+        "Green chilies, chopped",
+        "Ghee",
+        "Coconut chutney for serving"
+      ],
+      "instructions": [
+        "In a pan, heat ghee and add mustard seeds, cumin seeds, and curry leaves.",
+        "Add chopped onions, green chilies, and turmeric powder. Sauté until onions are golden brown.",
+        "Mix in boiled and mashed potatoes. Cook until well combined and seasoned.",
+        "Spread dosa batter on a hot griddle to make thin pancakes.",
+        "Place a spoonful of the potato mixture in the center, fold, and serve hot.",
+        "Pair with coconut chutney for a delicious South Indian meal."
+      ],
+      "prepTimeMinutes": 40,
+      "cookTimeMinutes": 20,
+      "servings": 4,
+      "difficulty": "Medium",
+      "cuisine": "Indian",
+      "caloriesPerServing": 320,
+      "tags": [
+        "Dosa",
+        "Indian",
+        "Asian"
+      ],
+      "userId": "08b2",
+      "userName": "ramdan",
+      "image": "https://cdn.dummyjson.com/recipe-images/28.webp",
+      "rating": 4.4,
+      "reviewCount": 6,
+      "mealType": [
+        "Breakfast"
+      ]
+    },
+    {
+      "id": "29",
+      "name": "Lebanese Falafel Wrap",
+      "ingredients": [
+        "Falafel balls",
+        "Whole wheat or regular wraps",
+        "Tomatoes, diced",
+        "Cucumbers, sliced",
+        "Red onions, thinly sliced",
+        "Lettuce, shredded",
+        "Tahini sauce",
+        "Fresh parsley, chopped"
+      ],
+      "instructions": [
+        "Warm falafel balls according to package instructions.",
+        "Place a generous serving of falafel in the center of each wrap.",
+        "Top with diced tomatoes, sliced cucumbers, red onions, shredded lettuce, and fresh parsley.",
+        "Drizzle with tahini sauce and wrap tightly.",
+        "Enjoy this Lebanese Falafel Wrap filled with fresh and flavorful ingredients!"
+      ],
+      "prepTimeMinutes": 15,
+      "cookTimeMinutes": 10,
+      "servings": 2,
+      "difficulty": "Easy",
+      "cuisine": "Lebanese",
+      "caloriesPerServing": 400,
+      "tags": [
+        "Falafel",
+        "Lebanese",
+        "Wrap"
+      ],
+      "userId": "08b2",
+      "userName": "ramdan",
+      "image": "https://cdn.dummyjson.com/recipe-images/29.webp",
+      "rating": 4.7,
+      "reviewCount": 25,
+      "mealType": [
+        "Lunch"
+      ]
+    },
+    {
+      "id": "30",
+      "name": "Brazilian Caipirinha",
+      "ingredients": [
+        "Cachaça (Brazilian sugarcane spirit)",
+        "Lime, cut into wedges",
+        "Granulated sugar",
+        "Ice cubes"
+      ],
+      "instructions": [
+        "In a glass, muddle lime wedges with granulated sugar to release the juice.",
+        "Fill the glass with ice cubes.",
+        "Pour cachaça over the ice and stir well.",
+        "Sip and enjoy the refreshing taste of the Brazilian Caipirinha!",
+        "Adjust sugar and lime to suit your taste preferences."
+      ],
+      "prepTimeMinutes": 5,
+      "cookTimeMinutes": 0,
+      "servings": 1,
+      "difficulty": "Easy",
+      "cuisine": "Brazilian",
+      "caloriesPerServing": 150,
+      "tags": [
+        "Caipirinha",
+        "Brazilian",
+        "Cocktail"
+      ],
+      "userId": "08b2",
+      "userName": "ramdan",
+      "image": "https://cdn.dummyjson.com/recipe-images/30.webp",
+      "rating": 4.4,
+      "reviewCount": 4,
+      "mealType": [
+        "Beverage"
+      ]
+    },
+    {
+      "name": "mie goreng",
+      "ingredients": [
+        "mie"
+      ],
+      "instructions": [
+        "digoreng"
+      ],
+      "prepTimeMinutes": 5,
+      "cookTimeMinutes": 15,
+      "difficulty": "Easy",
+      "cuisine": "global",
+      "caloriesPerServing": 100,
+      "tags": [
+        "indonesian"
+      ],
+      "image": "https://o-cdn-cas.sirclocdn.com/parenting/images/mie-goreng.width-800.jpegquality-80.jpg",
+      "rating": 5,
+      "mealType": [
+        "Dinner",
+        "Lunch",
+        "Snack",
+        "Appetizer",
+        "Beverage",
+        "Dessert",
+        "Breakfast"
+      ],
+      "id": "1249",
+      "userId": "08b2",
+      "userName": "ramdan"
+    },
+    {
+      "name": "nasi goreng",
+      "ingredients": [
+        "nasi"
+      ],
+      "instructions": [
+        "digoreng"
+      ],
+      "prepTimeMinutes": 5,
+      "cookTimeMinutes": 15,
+      "difficulty": "Easy",
+      "cuisine": "Asian",
+      "caloriesPerServing": 100,
+      "tags": [
+        "Pizza"
+      ],
+      "image": "https://cdn1-production-images-kly.akamaized.net/EjwV7j3Y4JrlqUFuavke4NtRWtM=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3108566/original/079979700_1587487794-Sajiku_1.jpg",
+      "rating": 5,
+      "mealType": [
+        "Dinner",
+        "Lunch"
+      ],
+      "id": "8a45",
+      "userId": "08b2",
+      "userName": "ramdan"
+    },
+    {
+      "id": "ac55",
+      "name": "Nasi",
+      "ingredients": [
+        "Nasi"
+      ],
+      "instructions": [
+        "Nanak di rice cooker"
+      ],
+      "prepTimeMinutes": 5,
+      "cookTimeMinutes": 15,
+      "difficulty": "Easy",
+      "cuisine": "asian",
+      "caloriesPerServing": 150,
+      "tags": [
+        "asian"
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzDtytw7hUCI_pHoQNbzzebLOzxeyQ4DB_G8UseanNfA&s",
+      "rating": 5,
+      "mealType": [
+        "Dinner",
+        "Lunch",
+        "Breakfast"
+      ],
+      "userName": "ramdan",
+      "userId": "07b2"
+    }
+  ],
+  "promo": [
+    {
+      "id": "1",
+      "img": "data:image/png;base64,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",
+      "title": "Ramadhan",
+      "description": "Promo hemat buka puasa",
+      "date": "Berlaku hingga 29 april"
+    },
+    {
+      "id": "2",
+      "img": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/chrismmas-%281%29-design-template-572a14bb1ffffeff476f6ded87a9081d_screen.jpg?ts=1670995579",
+      "title": "Natal",
+      "description": "Promo hari natal",
+      "date": "Berlaku hingga 29 desember"
+    },
+    {
+      "id": "3",
+      "img": "https://lh4.googleusercontent.com/ofpWJpNmGDV6JmdV3EayvAyGGDheWWMpJvffIGvnnAomdeAZR4gRHEk6weVN_VSO_TCTu3i-H8kcx3vmv3HdYRQDIj4lvCPvzQINF7vVSKSJiV2fpxR_F6cxaHX2yp8VbVNhfAhO",
+      "title": "valentine",
+      "description": "Gratis coklat",
+      "date": "Berlaku hingga 29 april"
+    }
+  ],
+  "user": [
+    {
+      "id": "41f1",
+      "name": "asep",
+      "password": "123",
+      "confirmPassword": "123"
+    },
+    {
+      "id": "46c3",
+      "name": "asep1",
+      "password": "123",
+      "confirmPassword": "123"
+    },
+    {
+      "id": "07b2",
+      "name": "ramdan",
+      "password": "123"
+    },
+    {
+      "id": "1d07",
+      "name": "ramdan2",
+      "password": "123"
+    }
+  ],
+  "total": 50,
+  "skip": 0,
+  "limit": 30
+}

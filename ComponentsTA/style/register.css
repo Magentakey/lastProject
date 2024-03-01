@@ -1,0 +1,50 @@
+.conRegister{
+    border: 1px solid transparent;
+    width: 100vw;
+    height: 100vh;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.conRegister>form{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 15px;
+    background-image: linear-gradient(90deg, rgba(255, 0, 0, 0.5), rgba(251, 0, 251, 0.8));
+}
+.conRegister>form>div{
+    position: relative;
+}
+.conRegister>form>div>span{
+    position: absolute;
+    top: 27%;
+    left: 10%;
+}
+.conRegister>form>div>input{
+    padding-left: 3rem;
+}
+.conRegister>form>input{
+    background-color: rgb(216, 216, 216);
+}
+.conRegister>form>label{
+    align-self: flex-start;
+}
+.conRegister>form>div{
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btnBack{
+    z-index: 9999999;
+    background-color: transparent;
+    position: absolute;
+    transition: 0.5s;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+.btnBack:hover{
+    opacity: 0.8;
+}

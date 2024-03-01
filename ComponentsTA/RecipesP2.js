@@ -1,17 +1,19 @@
 import React, { useEffect, useState } from "react";
 // import { projectAPI } from "./projectAPI";
-import { projectAPI } from "./ProjectAPI";
+import { projectAPI } from "./Class/ProjectAPI";
 // import ProjectDetail from "./RecipesDetail";
 import RecipesDetail from "./RecipesDetail";
 import { useParams } from "react-router-dom";
-import "./styleDetail.css"
+import "./style/styleDetail.css"
+import Navbar from "./Main/Navbar";
 
 const RecipesP2 = (props) => {
     const [loading, setLoading] = useState(false)
     const [project, setProject] = useState(null)
     const [error, setError] = useState(null)
     const params = useParams();
-    const id = Number(params.id)
+    // const id = Number(params.id)
+    const id = params.id
     // const id = 95
     // console.log(params);
     // console.log(id);
@@ -29,7 +31,7 @@ const RecipesP2 = (props) => {
 
     return (
         <div className="styleDetail">
-            <h1>Recipes Detail</h1>
+            <Navbar />
             {loading && (
                 <div className="center-page">
                     <span className="spinner primary"></span>
@@ -49,7 +51,6 @@ const RecipesP2 = (props) => {
                     </div>
                 </div>
             )}
-
             {project && <RecipesDetail project={project} />}
             {/* {console.log(project)} */}
         </div>

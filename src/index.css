@@ -1,0 +1,21 @@
+@import '../node_modules/mini.css/dist/mini-default.min.css';
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+}
+/* form{
+    min-width: 300px;
+} */
+/* html,body,#root,.container,.center-page{
+    height: 100%;
+} */
+
+/* .center-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */

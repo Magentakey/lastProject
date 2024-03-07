@@ -1,0 +1,58 @@
+*{
+  margin: 0;  
+  padding: 0;
+  box-sizing: border-box;
+}
+/* .styleDetail{
+  border: 1px solid transparent;
+  // margin: 50px 0 0 0;
+} */
+
+.conDetail{
+  display: flex;
+  background-color: #fffa70;
+  height: 90vh;
+}
+.conDetail>img{
+  width: 50%;
+}
+.conDetail>div{
+  padding: 50px;
+}
+.conDetail>div>div{
+  display: flex;
+}
+.conDetail>div>div>button{
+  width: 20%;
+}
+.conDetail>div>div>.btnDelete{
+  background-color: magenta;
+  color: white;
+}
+.conDetail>div>div>.btnDelete:hover{
+  opacity: 0.5;
+}
+.conDetail>div>div>.btnEdit{
+  background-color: aqua;
+  color: white;
+}
+.conDetail>div>div>.btnEdit:hover{
+  opacity: 0.5;
+}
+.ingAndInst{
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(73, 62, 170);
+  color: white;
+}
+.commentCon{
+  background-color: white;
+}
+.commentCon>.innerComment{
+  border: 1px solid black;
+  background-color: rgba(128, 128, 128, 0.3);
+  margin: 5px 0;
+}
+.commentCon>.innerComment>.name{
+  border-bottom: 1px solid black;
+}
